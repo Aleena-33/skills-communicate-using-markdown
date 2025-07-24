@@ -1,16 +1,30 @@
 # Communicate using Markdown
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## Headers
 
-Hey Aleena-33!
+### Header 2
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Aleena-33/skills-communicate-using-markdown/issues/1)
+#### Header 3
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+## Add an Image
 
+<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+
+---
+
+## Code Example
+
+
+```python
+def greet():
+    print("Hello, Aleena!")
+
+## Task List
+
+- [x] Add headers
+- [x] Add an image
+- [x] Add a code example
+- [x] Make a task list
+- [ ] Merge your pull request
